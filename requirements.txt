@@ -1,0 +1,4 @@
+tqdm==4.63.0
+pandas==1.1.5
+python_Levenshtein==0.20.7
+torch==1.10.2
