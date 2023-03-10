@@ -6,8 +6,6 @@
 - python_Levenshtein==0.20.7
 - pandas==1.1.5
 - tqdm==4.63.0
-## Log data
-HDFS, openStack, and BGL data are all from the [loghub](https://github.com/logpai/loghub). If you are interested in the datasets, please follow the link to submit your access request.
 
 # Training
 To begin training on HDFS, run this code:
