@@ -1,5 +1,5 @@
-# ActiveLog
-**ActiveLog, a log-based anomaly detection approach that incorporates human knowledge based on the framework of deep active learning.**
+# AcLog
+**AcLog, a log-based anomaly detection approach that incorporates human knowledge based on the framework of deep active learning.**
 ## Requirements
 - python==3.6.13
 - torch==1.10.2
