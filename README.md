@@ -12,4 +12,17 @@ To begin training on HDFS, run this code:
 ```
 python run.py
 ```
+# Citation
+Please cite if you use the data or code in this repo.
+```
+@inproceedings{duan2023aclog,
+  title={AcLog: An Approach to Detecting Anomalies from System Logs with Active Learning},
+  author={Duan, Chiming and Jia, Tong and Li, Ying and Huang, Gang},
+  booktitle={2023 IEEE International Conference on Web Services (ICWS)},
+  pages={436--443},
+  year={2023},
+  organization={IEEE}
+}
+```
+
 
