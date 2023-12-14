@@ -1,5 +1,5 @@
 # AcLog
-**AcLog, a log-based anomaly detection approach that incorporates human knowledge based on the framework of deep active learning.**
+**AcLog: An Approach to Detecting Anomalies from System Logs with Active Learning.**
 ## Requirements
 - python==3.6.13
 - torch==1.10.2
